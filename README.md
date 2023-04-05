@@ -18,9 +18,11 @@ Here are some ideas to get you started:
  <h1 align="center">Hi 👋, I'm Heel Patel</h1>
 <h3 align="center">A Passionate Programmer from India</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fmartin-luther-king-jr-quote-if-you-cant-fly-then-run-if-you-cant-run-then-walk-if-you-cant-wal-in-2022--526991593908548135%2F&psig=AOvVaw3IX6Ik1HfHfPy7P9RTu_o_&ust=1680794162005000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjegKqEk_4CFQAAAAAdAAAAABAE" alt="Quote" />
+<p align="left">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heelpatel01&label=Profile%20views&color=0e75b6&style=flat" alt="heelpatel01" /> </p>
+<img src="https://i.pinimg.com/564x/97/88/af/9788af15dcb012abc36c0e1e22e2320f.jpg" alt="Quote"/>
+
+<img src="https://komarev.com/ghpvc/?username=heelpatel01&label=Profile%20views&color=0e75b6&style=flat" alt="heelpatel01" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed"><img src="https://github-profile-trophy.vercel.app/?username=heelpatel01" alt="heelpatel01" /></a> </p>
 
