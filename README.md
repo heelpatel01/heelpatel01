@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heelpatel01&show_icons=true&locale=en" alt="heelpatel01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heelpatel01&" alt="heelpatel01" /></p>
+
+[![heelpatel01's GitHub | Languages Over Time](https://stats.quine.sh/heelpatel01/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=heelpatel01)
