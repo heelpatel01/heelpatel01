@@ -1,5 +1,5 @@
 ### Visit My Portfolio Website:-
-[Portfolio site](https://patelheel.me/)
+[Portfolio site](https://patelheel.tech/)
 
 
 # 👋 Hello, I'm Heel Patel!
